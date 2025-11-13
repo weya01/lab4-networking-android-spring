@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaApp</string>
+    <string name="lista_de_tarefas">Lista de Tarefas</string>
+    <string name="listar_tarefas">Listar Tarefas</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="instrução">Resultado aparecerá aqui...</string>
+</resources>
